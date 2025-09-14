@@ -18,7 +18,7 @@ pipeline{
                 }
             }
         }
-        kk
+        
 
     // stage('SonarQube Analysis'){
 	// 		steps {
